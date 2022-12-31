@@ -1,3 +1,7 @@
+// O método sort() ordena os elementos de um array. 
+// Quando passado sem argumentos, a ordenação é feita em ordem alfabética.
+// Nesse exercício vou tentar criar um algoritmo de ordenação e, logicamente, não pretendo usar o sort().
+
 function menor_que_k_em_Lista(k, lista){
 
 	var auxiliar = lista.map(x => x < k);
