@@ -1,0 +1,7 @@
+var mensagem = "Olá, Mundo!";
+var x = 0;
+var y = 3;
+console.log(mensagem);
+console.log(x+y);
+console.log(x*y);
+console.log(y**x);
